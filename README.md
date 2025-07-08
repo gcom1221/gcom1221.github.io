@@ -1,22 +1,48 @@
-## Hi there, I'm Malcolm👋
 
-I'm a passionate web developer and aspiring software engineer. I love solving problems with clean, readable code and collaborating on open-source projects like Macy 🤖.
+<!-- Banner -->
+<img src="https://github.com/gcom1221/gcom1221/assets/your-banner-image-id" alt="Banner" style="width:100%;" />
 
-## 🛠️ Tech Stack
-- JavaScript | React
-- HTML | CSS
-- Git | GitHub
-- Figma | Wordpress
+# 👋 Hi there!I'm Malcolm.
 
-## 🔭 Projects
-- [Macy 🤖](https://github.com/YourUsername/July4_Assignment_3) – AI chatbot for code learners
-- [Portfolio Website](https://github.com/gcom1221/Portfolio)
+🎯 A passionate web developer and aspiring software engineer. I love solving problems with **clean code**, **UX-focused web design**, and **open-source collaboration**.
 
-## 📫 How to Reach Me
-- GitHub: [@gcom1221](https://github.com/gcom1221)
-- Email: malcolm.codes@example.com
+---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 💼 About Me
+- 💻 Currently pursuing **Web Development**
+- 🎓 Previously earned degrees in **Civil Engineering** and **Management**
+- 🔍 Open to freelance & full-time roles
+- 🛠️ Tech stack: - JavaScript, HTML, CSS, Git, GitHub, Wordpress
+
+---
+
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,git" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+- [🎓 Macy 🤖 – AI Coding Assistant](https://github.com/MalcolmOnwinaru/July4_Assignment_3)  
+  _A chatbot that teaches code with real-time feedback using AI APIs._
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:gcom1221@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/gcom1221"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gcom1221"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+> _“Do the best you can until you know better. Then when you know better, do better.” – Maya Angelou_
+
 
 
 <!--
