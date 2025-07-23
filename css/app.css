@@ -251,7 +251,7 @@ body {
       #projects > .project > .project-text p {
         font-size: 1.2em;
         line-height: 1.4em;
-        margin-top: 10px;
+        margin: 10px 0;
       }
 
       #projects > .project > .thumbnails > .cthumbnail,
