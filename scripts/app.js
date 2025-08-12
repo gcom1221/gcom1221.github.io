@@ -85,7 +85,19 @@ function setupThemeToggle() {
   themeToggle.addEventListener('click', toggleTheme);
 }
 
+function setupMobileMenu() {
+  let menuToggle = document.querySelector('.menu-toggle');
+  let navbar = document.querySelector('.navbar');
+
+  if (menuToggle && navbar) {
+    menuToggle.addEventListener('click', function () {
+      navbar.classList.toggle('open');
+    });
+  }
+}
+
 setupThemeToggle();
+setupMobileMenu();
 
 window.addEventListener('DOMContentLoaded', function () {
   new ParticleBackground();
